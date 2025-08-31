@@ -30,6 +30,7 @@ dependencies = [
     "wandb (==0.17.4)",
     "lightgbm (==4.4.0)",
     "seaborn (>=0.13.2,<0.14.0)",
+    "scipy (>=1.16.1,<2.0.0)",
 ]
 requires-python = "==3.11.4"
 
