@@ -5,6 +5,7 @@
 </a>
 
 Repository for assignment 1 of Adv. Machine Learning.
+Kaggle competition link: https://www.kaggle.com/competitions/uts-36120-25-sp
 
 ## Project Setup and Usage Guide
 Welcome to the amla_group23_at1 project! This guide will walk you through setting up your environment to run the project.
